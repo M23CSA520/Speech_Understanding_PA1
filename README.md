@@ -45,8 +45,25 @@ Example : 03-01-02-01-01-01-01.wav
 02: Emotion (02 = calm).
 Remaining fields encode intensity, statement, repetition, and actor ID.
 
+# SER Project -- Ravdess Dataset
+For Q1 -- https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/m23csa520_speech_q1_pa1.py
+          https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/M23CSA520_Speech_Q1_PA1.ipynb
+          https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/SER_Q1_Report.pdf
 
 
+# Analyzing Different Window Techniques -- Urban8k Dataset
+For Q2 -- Task A
+
+
+# Analyzing Spectrograms generated for different genres of music ( Classical , Jazz, Rock , Ghazal )
+All Songs were uploaded to Google Colab
+    "Classical": "/content/songs/Ek Chatur Naar Karke Sringar - Padosan.mp3",
+    "Rock": "/content/songs/Alvida - Life In A Metro 320 Kbps.mp3",
+    "Jazz": "/content/songs/Hosanna - Ekk Deewana Tha 320 Kbps.mp3",
+    "Ghazal": "/content/songs/Woh Kaghaz Ki Kashti - The Latest 320 Kbps.mp3"
+For Q2 -- Task B -- https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/m23csa520_speech_q2_taskb.py
+                    https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/M23CSA520_Speech_Q2_TaskB.ipynb
+                    https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/PA1_Q2_TaskB.pdf
 
 
 
