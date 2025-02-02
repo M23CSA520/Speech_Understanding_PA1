@@ -1,13 +1,4 @@
-# Speech_Understanding_PA1
-Speech Emotion Recognition (SER) Project
-Table of Contents
-Overview
-Dataset
-Installation
-Usage
-Results
-Contributing
-License
+# Speech Emotion Recognition (SER) Project
 
 # Overview
 This project implements a Speech Emotion Recognition (SER) system to classify emotions from spoken language using the RAVDESS dataset . The system extracts acoustic features such as MFCCs , Chroma , Spectral Contrast , and Mel-Spectrogram from audio files and uses a deep learning model to predict emotions like happiness, sadness, anger, and more.
