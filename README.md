@@ -52,7 +52,9 @@ For Q1 -- https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/m23csa
 
 
 # Analyzing Different Window Techniques -- Urban8k Dataset
-For Q2 -- Task A
+For Q2 -- Task A -- https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/m23csa520_q2_taska_pa1.py
+                    https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/M23CSA520_Q2_TaskA_PA1.ipynb
+                    https://github.com/M23CSA520/Speech_Understanding_PA1/blob/main/Speech_Understanding_Q2_TaskA_PA1.pdf
 
 
 # Analyzing Spectrograms generated for different genres of music ( Classical , Jazz, Rock , Ghazal )
