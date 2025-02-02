@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 # Define paths to the songs (in .mp3 format)
 song_paths = {
-    "Classical": "/content/songs/Alvida - Life In A Metro 320 Kbps.mp3",
+    "Classical": "/content/songs/Ek Chatur Naar Karke Sringar - Padosan.mp3",
     "Rock": "/content/songs/Alvida - Life In A Metro 320 Kbps.mp3",
     "Jazz": "/content/songs/Hosanna - Ekk Deewana Tha 320 Kbps.mp3",
     "Ghazal": "/content/songs/Woh Kaghaz Ki Kashti - The Latest 320 Kbps.mp3"
